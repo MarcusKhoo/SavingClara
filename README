@@ -11,5 +11,7 @@ Features:
 - Monsters with some AI (patrolling, detecting, chasing, attacking)
 
 How to run project:
-1) Run the .sln file using Visual Studio 2010
-2) Build the solution by pressing F5
+1) You need Visual Studio 2010
+2) You need DirectX 9
+3) Run the .sln file using Visual Studio 2010
+4) Build the solution by pressing F5
