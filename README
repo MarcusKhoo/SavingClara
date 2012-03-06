@@ -2,6 +2,8 @@ Saving Clara
 
 A classic RPG game whereby there's a hero, a villian and a princess. As the title suggests, Clara is the princess and you are the hero. The princess is kidnapped and the hero is supposed to save her from the villian.
 
+Written in C++ and DirectX9 for PC
+
 Features:
 - Town
 - NPC / Quest giver
